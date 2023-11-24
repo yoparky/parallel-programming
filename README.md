@@ -1,5 +1,5 @@
 # parallel-programming
-A collection of parallel programming projects using OpenMPI and Cuda from OSU's parallel programming class
+A collection of parallel programming projects using **OpenMP** and **Cuda** from OSU's parallel programming class
 
 # projects
 ## openmp_simple_experiment
